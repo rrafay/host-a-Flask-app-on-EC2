@@ -22,7 +22,7 @@ Now you should be connected to your instance via the command line/terminal.
 
 ## Preparing the Instance to Host the App
 
-First thing's first. We need to install git, pyhton and pip for us to continue with our project.
+First thing's first. We need to install git, python and pip for us to continue with our project.
 
 #### Start by updating the package index:
 
@@ -68,7 +68,7 @@ pip3 install -r requirements.txt
 
 More about requirements.txt file [here](https://medium.com/@boscacci/why-and-how-to-make-a-requirements-txt-f329c685181e)
 
-(just include the required packages in your .txt file if you're constantly hit by errors while installing the dependencies)
+(just include only the required packages in your .txt file if you're constantly hit by errors while installing the dependencies)
 
 
 
