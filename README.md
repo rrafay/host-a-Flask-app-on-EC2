@@ -184,6 +184,6 @@ The app should be up and running.
 
 Go back to your EC2 instance on your browser, copy your EC2's **Public DNS(IPv4)** address and paste it in a new tab. If successful, the browser will display the message "The App is running!"
 
-***Congratulations*** you've successfully deploye dyour Flask app on an EC2 Instance!
+***Congratulations*** you've successfully deployed your Flask app on an EC2 Instance!
 
 
